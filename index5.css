@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    background-image: url(bA.webp);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    box-sizing:border-box;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+.Menu {
+    background-color: yellowgreen;
+    text-align: center;
+}
+.Menu ul{
+    display:inline-flex;
+ } 
+ .Menu ul li{
+    width: 120px;
+    margin: 15px;
+    padding:15px;
+}
